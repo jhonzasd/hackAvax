@@ -1,0 +1,8 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar el archivo package.json
+package.json
+
+# Ignorar el archivo pnpm-lock.yaml
+pnpm-lock.yaml
